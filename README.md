@@ -7,5 +7,8 @@ The related Mr. Touch Key Project is a touch Midi keyboard that can be interface
 
 ![alt text](https://github.com/davidcool/Mr-Roboto/blob/master/_pictures/mr_roboto_schematic_v2.png)
 ![alt text](https://github.com/davidcool/Mr-Roboto/blob/master/_pictures/IMG_6931.jpg)
+![alt text](https://github.com/davidcool/Mr-Roboto/blob/master/_pictures/IMG_6925.jpg)
+![alt text](https://github.com/davidcool/Mr-Roboto/blob/master/_pictures/IMG_6933.jpg)
+![alt text](https://github.com/davidcool/Mr-Roboto/blob/master/_pictures/IMG_6910.jpg)
+![alt text](https://github.com/davidcool/Mr-Roboto/blob/master/_pictures/IMG_6915.jpg)
 ![alt text](https://github.com/davidcool/Mr-Roboto/blob/master/_pictures/IMG_6919.jpg)
-![alt text](https://github.com/davidcool/Mr-Roboto/blob/master/_pictures/IMG_6923.jpg)
