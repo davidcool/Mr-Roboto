@@ -1,5 +1,6 @@
 # Mr-Roboto
-Laser cut micro-controller based robot toy
+Laser cut micro-controller based robot toy.
+
 Kits available at:
 http://shop.davidcool.com
 
