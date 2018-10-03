@@ -19,6 +19,8 @@ It uses:
 - 8mm shrink tube to create the control cable
 - 2x rubber grommets for cable interface points
 - 12mm M3 flathead hex bolts & nuts for attaching parts
+- 4x knobs for potentiometers
+- 1x knob for switch
 
 Tools:
 - Soldering Iron
