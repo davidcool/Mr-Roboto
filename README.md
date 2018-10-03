@@ -21,6 +21,7 @@ It uses:
 - 12mm M3 flathead hex bolts & nuts for attaching parts
 - 4x knobs for potentiometers
 - 1x knob for switch
+- 1/2 inch copper tape (for +5V & GND rails so young learners can more easily solder)
 
 Tools:
 - Soldering Iron
@@ -28,6 +29,7 @@ Tools:
 - Helping hands
 - Glue gun
 - Wire strippers
+- 2mm hex wrench/driver
 - 3D printer
 - Laser cutter
 
