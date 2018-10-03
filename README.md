@@ -1,5 +1,7 @@
 # Mr-Roboto
 Laser cut micro-controller based robot toy
+Kits available at:
+http://shop.davidcool.com
 
 <h2>Mr. Roboto Project</h2>
 This project has all the files needed to laser cut and build a robot and control box.
@@ -16,6 +18,18 @@ It uses:
 - 8mm shrink tube to create the control cable
 - 2x rubber grommets for cable interface points
 - 12mm M3 flathead hex bolts & nuts for attaching parts
+
+Tools:
+- Soldering Iron
+- Solder
+- Helping hands
+- Glue gun
+- Wire strippers
+- 3D printer
+- Laser cutter
+
+If you don't have accerss to a laser cutter or 3D printer, these projects are available as kits at:
+http://shop.davidcool.com
 
 This project is designed to interact with another project, Mr. Touch Key found here:
 https://github.com/davidcool/Mr-Touch-Key
