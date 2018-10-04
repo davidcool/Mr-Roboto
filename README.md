@@ -39,8 +39,10 @@ http://shop.davidcool.com
 This project is designed to interact with another project, Mr. Touch Key found here:
 https://github.com/davidcool/Mr-Touch-Key
 
-- In mode 3 on Mr. Roboto as the robot moves it sends random MIDI notes to the keyboard to be played.
-- In mode 4 on Mr. Roboto as the keyboard is played different parts of the robot will move.
+- In mode 1 each of the 4 servos are controlled by a corresponding potentiometer for manual control of the robot.
+- In mode 2 all the servos do a sweeping motion so the robot moves automatically, the potentiometers control the sweep speed.
+- In mode 3 on Mr. Roboto as the robot moves it sends random MIDI notes to the Mr. Touch Key keyboard to be played.
+- In mode 4 on Mr. Roboto as the Mr. Touch Key keyboard is played different parts of the robot will move.
 
 ![alt text](https://github.com/davidcool/Mr-Roboto/blob/master/_pictures/mr_roboto_schematic_v2.png)
 ![alt text](https://github.com/davidcool/Mr-Roboto/blob/master/_pictures/IMG_6931.jpg)
